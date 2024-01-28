@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Osanda Randunu Senal
-- 👀 I’m interested in Java, ReactJS, 
+- 👀 I’m interested in Java, Javascript, mern
 - 🌱 I’m currently learning at SLIIT.
 
 <!---
